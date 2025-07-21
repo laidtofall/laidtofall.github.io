@@ -1,2 +1,2 @@
 # laidtofall.github.io
-Theory 
+The Premature Genius Theory (PGT)
